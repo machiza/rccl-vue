@@ -16,7 +16,8 @@
     "moment": "^2.24.0",
     "popper.js": "^1.15.0",
     "vue": "^2.6.10",
-    "vue-router": "^3.0.3"
+    "vue-router": "^3.0.3",
+    "vue-smart-pagination": "^2.0.9"
   },
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.8.1",
